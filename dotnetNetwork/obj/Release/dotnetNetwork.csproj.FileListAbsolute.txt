@@ -1,0 +1,15 @@
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe.config
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.pdb
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.exe
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.pdb
+C:\Users\Doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe.config
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.exe
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.pdb
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.pdb
+C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.csprojResolveAssemblyReference.cache
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe.config
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.exe
+C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.pdb

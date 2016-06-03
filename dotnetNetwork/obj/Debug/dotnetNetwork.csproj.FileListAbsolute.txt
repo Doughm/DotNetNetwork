@@ -1,0 +1,6 @@
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Debug\dotnetNetwork.exe.config
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Debug\dotnetNetwork.exe
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\bin\Debug\dotnetNetwork.pdb
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Debug\dotnetNetwork.csprojResolveAssemblyReference.cache
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Debug\dotnetNetwork.exe
+c:\users\doug\documents\visual studio 2012\Projects\dotnetNetwork\dotnetNetwork\obj\Debug\dotnetNetwork.pdb
