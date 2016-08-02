@@ -13,3 +13,9 @@ C:\Users\Doug\Documents\Visual Studio 2013\dotnetNetwork\dotnetNetwork\obj\Relea
 C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe.config
 C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.exe
 C:\Users\Doug\Documents\Visual Studio 2013\Projects\dotnetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.pdb
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe.config
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.exe
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.pdb
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.exe
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\bin\Release\dotnetNetwork.pdb
+C:\Users\Doug\Documents\GitHub\DotNetNetwork\dotnetNetwork\obj\Release\dotnetNetwork.csprojResolveAssemblyReference.cache
